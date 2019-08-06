@@ -1,5 +1,4 @@
-const host = 'http://justdb.top:8080/';
-// const host = 'http://192.168.1.103:8081/';
+const host = 'http://localhost:8081/';
 
 const commonapi = {
 	hostUrl: host,
