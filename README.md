@@ -15,6 +15,10 @@ vue文件夹存放的是一个vue的后台管理系统
 
 5. 由于需要使用mongodb数据库, 需要在本地安装mongodb, 创建账号的话使用postman请求接口, 如图:
 
+
+![Image text](https://raw.githubusercontent.com/chengzhnag/-node-vue-mongodb-/master/img/postman.png)
+
+
 6. 用创建的账号登录即可进入后台系统
 
 
