@@ -22,5 +22,8 @@ vue文件夹存放的是一个vue的后台管理系统
 6. 用创建的账号登录即可进入后台系统
 
 
+ps: vue后台管理系统使用的是https://github.com/lin-xin/vue-manage-system
+
+
 
 
